@@ -1,5 +1,13 @@
 {
   "dbnya": [
-    { "username": "dapz", "password": "dapz", "nomor": "62895324382888" }
+    {
+      "username": "dapz",
+      "password": "dapz",
+      "nomor": "62895324382888"
+    },
+    {
+      "username": "tamvan",
+      "password": "62882018213410"
+    }
   ]
 }
